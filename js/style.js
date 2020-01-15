@@ -34,9 +34,9 @@ $(document).ready(function() {
     // })
 
     // //disable click
-    //     document.addEventListener("contextmenu", function(e){
-    //     e.preventDefault();
-    // }, false);
+        document.addEventListener("contextmenu", function(e){
+        e.preventDefault();
+        }, false);
 
     
 
